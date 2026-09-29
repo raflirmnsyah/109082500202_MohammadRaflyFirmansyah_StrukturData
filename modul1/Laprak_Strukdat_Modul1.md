@@ -35,7 +35,6 @@ int main() {
 
 ##### Output 1
  https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul1/unguided/unguided1.png
-contoh :
 
 ##### Output 2
 https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul1/unguided/unguided1.2.png
