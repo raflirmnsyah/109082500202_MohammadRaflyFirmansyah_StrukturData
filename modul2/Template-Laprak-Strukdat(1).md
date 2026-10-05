@@ -48,7 +48,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 1
+Menampilkan nilai dari 1 hingga 5
 
 ### 2. Array2_dimensi
 
@@ -75,7 +75,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 2
+Script di atas digunakan untuk menampilkan seluruh isi array 2 dimensi berukuran 3×3 serta mengakses dan menampilkan salah satu elemen array secara spesifik, yaitu nilai 88.
 
 ### 3. Array3_dimensi
 
@@ -98,7 +98,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 3
+Script di atas digunakan untuk membuat array 3 dimensi berukuran 2×2×3 dan mengakses elemen tertentu dalam array, yaitu nilai 60.
 
 ### 4. Alamat
 
@@ -115,7 +115,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 4
+Script di atas digunakan untuk menampilkan nilai variabel angka dan mengetahui alamat memori tempat variabel tersebut disimpan.
 
 ### 5. Pointer 1
 
@@ -139,7 +139,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 5
+Script di atas digunakan untuk membuat array karakter, mengisi data karakter ke dalam array, kemudian menampilkan nilai pada indeks tertentu dan alamat memori dari elemen array.
 
 ### 6. Pointer
 
@@ -162,7 +162,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 6
+Script di atas digunakan untuk mempelajari pointer dengan menyimpan alamat variabel angka ke dalam pointer, kemudian menampilkan alamat tersebut dan nilai angka melalui pointer.
 
 ### 7. Array3_dimensi
 
@@ -197,7 +197,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 7
+Script di atas digunakan untuk menerima tiga bilangan dari pengguna, membandingkan ketiganya melalui fungsi maks3(), kemudian menampilkan bilangan yang memiliki nilai paling besar.
 
 ### 8. Array3_dimensi
 
@@ -214,7 +214,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 8
+Script di atas digunakan untuk mempelajari penggunaan fungsi void, yaitu membuat fungsi yang menjalankan suatu perintah tanpa mengembalikan nilai, kemudian memanggil fungsi tersebut dari main().
 
 ### 9. Array3_dimensi
 
@@ -259,7 +259,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 9
+Script di atas digunakan untuk mempelajari pertukaran nilai menggunakan fungsi dengan konsep pass by value, sehingga perubahan pada parameter di dalam fungsi tidak mengubah nilai variabel aslinya di main().
 
 ### 10. Array3_dimensi
 
@@ -288,7 +288,7 @@ int main() {
     return 0;
 }
 ```
-penjelasan singkat guided 10
+Script di atas digunakan untuk menukar nilai dua variabel secara langsung menggunakan pointer (pass by reference melalui alamat), sehingga perubahan yang dilakukan di dalam fungsi juga mengubah nilai variabel asli di main().
 
 ## Unguided 
 
@@ -384,12 +384,12 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1_1]!(https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul2/unguided1/unguided1_1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1_2]!(https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul2/unguided1/unguided1_2.png)
 
-penjelasan unguided 1 
+Script di atas digunakan untuk membuat program operasi matriks 3×3 dengan menggunakan fungsi, yang memungkinkan pengguna memasukkan dua matriks kemudian melakukan penjumlahan, pengurangan, atau perkalian matriks dan menampilkan hasilnya.
 
 ### 2. Berdasarkan guided pointer dan reference sebelumnya, buatlah keduanya dapat menukar nilai dari 3 variabel  
 
@@ -443,15 +443,12 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+![Screenshot Output Unguided 2_1]!(https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul2/unguided2/unguided2_1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2_2]!(https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul2/unguided2/unguided2_2.png)
 
-penjelasan unguided 2
+Script di atas digunakan untuk mempelajari perbedaan penggunaan pointer dan reference dalam menukar nilai tiga variabel. Pointer menggunakan alamat memori dengan simbol * dan &, sedangkan reference menggunakan & pada parameter fungsi untuk langsung mengakses variabel asli.
 
 ### 3. Diketahui sebuah array 1 dimensi sebagai berikut :  arrA = {11, 8, 5, 7, 12, 26, 3, 54, 33, 55} Buatlah program yang dapat mencari nilai minimum, maksimum, dan rata – rata dari array tersebut! Gunakan function cariMinimum() untuk mencari nilai minimum dan function cariMaksimum() untuk mencari nilai maksimum, serta gunakan prosedur hitungRataRata() untuk menghitung nilai rata – rata! Buat program menggunakan menu switch-case seperti berikut ini : --- Menu Program Array ---  • Tampilkan isi array  • cari nilai maksimum • cari nilai minimum  • Hitung nilai rata - rata 
 
@@ -529,18 +526,16 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+![Screenshot Output Unguided 3_1]!(https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul2/unguided3/unguided3_1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3_2]!(https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul2/unguided3/unguide3_2.png)
 
-penjelasan unguided 3
+Script di atas digunakan untuk mengolah array berisi 10 data dengan menggunakan beberapa fungsi, yaitu menampilkan isi array, mencari nilai maksimum dan minimum, serta menghitung nilai rata-rata berdasarkan pilihan pengguna melalui menu program.
 
 ## Kesimpulan
 ...
+Kesimpulan dari materi modul 2, dapat disimpulkan bahwa array, fungsi, pointer, dan reference dapat digunakan untuk mengolah data secara terstruktur dalam C++. Pada soal pertama, digunakan fungsi untuk melakukan operasi pada matriks seperti penjumlahan, pengurangan, dan perkalian. Pada soal kedua, dipelajari penggunaan pointer dan reference untuk menukar nilai beberapa variabel secara langsung. Pada soal ketiga, digunakan fungsi untuk mengolah array dengan mencari nilai maksimum, minimum, dan rata-rata. Dari ketiga soal tersebut, dapat dipahami bahwa penggunaan fungsi dan pointer dapat membuat program lebih terstruktur, mempermudah pengolahan data, dan memungkinkan perubahan nilai variabel secara langsung.
 
 ## Referensi
 [1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
