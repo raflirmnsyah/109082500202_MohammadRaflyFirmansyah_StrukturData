@@ -10,7 +10,6 @@ Array merupakan kumpulan data dengan nama yang sama dan setiap elemen bertipe da
 #### 3. Array Berdimensi Banyak Merupakan array yang mempunyai indeks banyak, lebih dari dua. Indeks inilah yang menyatakan dimensi array. Array berdimensi banyak lebih susah dibayangkan, sejalan dengan jumlah dimensi dalam array.  
 
 ### B. Pointer<br/>
-...
 #### 1. Data dan Memori, Semua data yang ada digunakan oleh program komputer disimpan di dalam memori (RAM) komputer. Memori dapat digambarkan sebagai sebuah  array 1 dimensi yang berukuran sangat besar. Seperti layaknya array, setiap cell memory memiliki “indeks” atau “alamat” unik yang berguna untuk identitas yang biasa kita sebut sebagai “address”.
 #### 2. Pointer dan Alamat, Nilai variabel a Alamat variabel a Nilai variabel j Alamat varibel j Alamat variabel arr[4] Variabel pointer merupakan dasar tipe variabel yang berisi integer dalam format heksadesimal. Pointer digunakan untuk menyimpan alamat memori variabel lain sehingga pointer dapat mengakses nilai dari variabel yang alamatnya ditunjuk.  
 #### 3. Pointer dan Array, Ada keterhubungan yang kuat antara array dan pointer. Banyak operasi yang bisa dilakukan dengan array juga bisa dilakukan dengan pointer
