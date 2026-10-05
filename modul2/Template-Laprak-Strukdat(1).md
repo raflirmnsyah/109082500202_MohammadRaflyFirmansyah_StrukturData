@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 2 - Pengenalan Bahasa C++ (Bagian Kedua)</h1>
-<p align="center">Muhammad Dhimas Hafizh Fathurrahman - 2311102151</p>
+<p align="center">Mohammad Rafly Firmansyah - 109082500202</p>
 
 ## Dasar Teori
 
