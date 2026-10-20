@@ -432,7 +432,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1_1](https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul4/singlylist/soa1.png)
 
 Program ini digunakan untuk membuat dan menampilkan data menggunakan struktur data Singly Linked List. Langkah awal, program membuat list kosong menggunakan CreateList(), kemudian membuat node berisi nilai 2, 0, 8, 12, dan 9 menggunakan alokasi(). Setiap node dimasukkan ke bagian awal list menggunakan insertFirst(), sehingga urutan data yang ditampilkan menjadi 9, 12, 8, 0, dan 2. Selanjutnya, printInfo() digunakan untuk menampilkan seluruh data pada linked list.
 
@@ -488,7 +488,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2_1](https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul4/singlylist/soal2.png)
 
 Program ini digunakan untuk menghapus node dan menghitung jumlah node yang tersisa pada Singly Linked List. Langkah awal, program membuat linked list yang berisi data 9, 12, 8, 0, dan 2. Selanjutnya, deleteFirst() digunakan untuk menghapus node pertama, yaitu 9, deleteLast() untuk menghapus node terakhir, yaitu 2, dan deleteAfter() untuk menghapus node 8. Setelah penghapusan dilakukan, printInfo() menampilkan data yang tersisa, yaitu 12 dan 0. Fungsi nbList() digunakan untuk menghitung jumlah node yang tersisa sebanyak 2 node, sedangkan deleteList() digunakan untuk menghapus seluruh node sehingga jumlah node menjadi 0.
 
