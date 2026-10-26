@@ -569,12 +569,12 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1_1] https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul5/Laprak-Strukdat-Modul5.md
 
-penjelasan unguided 1 
+Program di atas digunakan untuk mengimplementasikan struktur data Singly Linked List yang menyimpan data berupa bilangan bulat (integer). Pada file Singlylist.h, didefinisikan tipe data infotype, pointer address, struktur ElmList yang berisi info dan next, serta struktur List yang memiliki pointer First sebagai penunjuk node pertama. Pada file Singlylist.cpp, fungsi CreateList() digunakan untuk membuat list kosong, alokasi() untuk membuat node baru dan mengisi nilainya, insertFirst() untuk menambahkan node di awal list, serta printInfo() untuk menampilkan seluruh elemen. Fungsi findElm() digunakan untuk mencari elemen dengan nilai tertentu, sedangkan totalInfo() digunakan untuk menghitung jumlah seluruh nilai dalam list. Pada file main.cpp, program membuat lima node dengan nilai 2, 0, 8, 12, dan 9, kemudian memasukkannya satu per satu menggunakan insertFirst(), sehingga urutan list menjadi 9 → 12 → 8 → 0 → 2. Setelah itu, program menampilkan isi list, mencari nilai 8 menggunakan findElm(), dan menghitung total seluruh elemen menggunakan totalInfo(). Hasil akhirnya adalah nilai 8 ditemukan dalam list dan total seluruh elemen adalah 31.
 
 ## Kesimpulan
-...
+Berdasarkan praktikum modul 5 materi Singly Linked List pada guided dan unguided, dapat disimpulkan bahwa Singly Linked List merupakan struktur data yang terdiri dari kumpulan node yang saling terhubung menggunakan pointer next. Pada praktikum guided, dipelajari penerapan berbagai operasi linked list, seperti membuat list, menambahkan node, menampilkan data, menghitung jumlah node, memperbarui data, mencari data, dan menghapus node. Sementara itu, pada praktikum unguided, diterapkan pembuatan list, penambahan elemen di awal list, penampilan isi list, pencarian elemen tertentu, dan perhitungan total nilai seluruh elemen. Melalui kedua praktikum tersebut, dapat dipahami bahwa setiap operasi pada Singly Linked List dilakukan dengan mengatur pointer agar hubungan antar-node tetap terjaga. Dengan demikian, praktikum ini membantu meningkatkan pemahaman mengenai konsep pointer, alokasi memori, serta pengelolaan data secara dinamis menggunakan struktur data Singly Linked List.
 
 ## Referensi
 [1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
