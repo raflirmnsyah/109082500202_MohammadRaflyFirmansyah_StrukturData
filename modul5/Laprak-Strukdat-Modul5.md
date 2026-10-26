@@ -569,7 +569,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1] https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul5/Laprak-Strukdat-Modul5.md
+![Screenshot Output Unguided 1_1] (https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul5/Laprak-Strukdat-Modul5.md)
 
 Program di atas digunakan untuk mengimplementasikan struktur data Singly Linked List yang menyimpan data berupa bilangan bulat (integer). Pada file Singlylist.h, didefinisikan tipe data infotype, pointer address, struktur ElmList yang berisi info dan next, serta struktur List yang memiliki pointer First sebagai penunjuk node pertama. Pada file Singlylist.cpp, fungsi CreateList() digunakan untuk membuat list kosong, alokasi() untuk membuat node baru dan mengisi nilainya, insertFirst() untuk menambahkan node di awal list, serta printInfo() untuk menampilkan seluruh elemen. Fungsi findElm() digunakan untuk mencari elemen dengan nilai tertentu, sedangkan totalInfo() digunakan untuk menghitung jumlah seluruh nilai dalam list. Pada file main.cpp, program membuat lima node dengan nilai 2, 0, 8, 12, dan 9, kemudian memasukkannya satu per satu menggunakan insertFirst(), sehingga urutan list menjadi 9 → 12 → 8 → 0 → 2. Setelah itu, program menampilkan isi list, mencari nilai 8 menggunakan findElm(), dan menghitung total seluruh elemen menggunakan totalInfo(). Hasil akhirnya adalah nilai 8 ditemukan dalam list dan total seluruh elemen adalah 31.
 
