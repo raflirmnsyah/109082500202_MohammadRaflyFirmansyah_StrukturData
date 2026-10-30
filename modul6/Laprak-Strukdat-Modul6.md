@@ -568,13 +568,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1_1](https://github.com/raflirmnsyah/109082500202_MohammadRaflyFirmansyah_StrukturData/blob/master/modul6/unguided/unguided.png)
 
 Program Unguided ini merupakan implementasi struktur data Doubly Linked List yang digunakan untuk menyimpan dan mengelola data kendaraan. Pada file Doublylist.h, terdapat struktur kendaraan yang memiliki atribut nopol untuk menyimpan nomor polisi, warna untuk menyimpan warna kendaraan, dan thnBuat untuk menyimpan tahun pembuatan kendaraan. Selanjutnya, struktur ElmList digunakan untuk menyimpan informasi kendaraan serta dua pointer, yaitu next dan prev yang menghubungkan setiap elemen secara dua arah. Struktur List memiliki pointer First dan Last untuk menunjukkan elemen pertama dan terakhir. File ini juga berisi deklarasi fungsi untuk membuat list, mengalokasikan dan menghapus elemen, menambahkan data, menampilkan data, mencari kendaraan berdasarkan nomor polisi, serta menghapus elemen berdasarkan posisinya.
 
